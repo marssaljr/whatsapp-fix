@@ -1,5 +1,7 @@
 {
-  "name": "Whatsapp Extension",
+  "name": "Whatsapp Fix Extension",
+  "author": "Marçal Júnior",
+  "description": "Chrome extension that fix whatsapp sidebar by putting a button and hide the chats",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [
